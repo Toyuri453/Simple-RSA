@@ -1,3 +1,3 @@
-# Simple_RSA_works
+# Simple_RSA
 
 A RSA-based encrypt works.
